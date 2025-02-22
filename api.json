@@ -1,5 +1,34 @@
 [
   {
+    "title": "Instrument Engineers' Handbook, Volume Three",
+    "authors": [
+      "Bela G. Liptak"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2002-06-26",
+    "description": "Instrument Engineers' Handbook, Third Edition: Volume Three: Process Software and Digital Networks provides an in-depth, state-of-the-art review of existing and evolving digital communications and control systems. While the book highlights the transportation of digital information by buses and networks, the total coverage doesn't stop there. It des",
+    "image": "http://books.google.com/books/content?id=KPjLAyA7HgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 11,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 905,
+    "isbn10": "143986344X",
+    "isbn13": "9781439863442",
+    "googleBooks": {
+      "id": "KPjLAyA7HgoC",
+      "preview": "http://books.google.com/books?id=KPjLAyA7HgoC&pg=PA6&dq=intitle:three+easy+pieces+operating+systems&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=KPjLAyA7HgoC&dq=intitle:three+easy+pieces+operating+systems&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Instrument_Engineers_Handbook_Volume_Thr.html?hl=&id=KPjLAyA7HgoC"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-02-22T14:07:25.000Z"
+  },
+  {
     "title": "Database Internals",
     "authors": [
       "Alex Petrov"
