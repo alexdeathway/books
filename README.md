@@ -1,10 +1,7 @@
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ✅ Completed (3)
 
-[![Instrument Engineers' Handbook, Volume Three](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKPjLAyA7HgoC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/3 "Instrument Engineers' Handbook, Volume Three by Bela G. Liptak")
-
-### ✅ Completed (2)
-
+[![Instrument Engineers' Handbook, Volume Three](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKPjLAyA7HgoC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/3 "Instrument Engineers' Handbook, Volume Three by Bela G. Liptak completed in 33 minutes on February 2025")
 [![Database Internals](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-F2vDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/2 "Database Internals by Alex Petrov completed in 1 hour on February 2025")
 [![Understanding Distributed Systems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DmthMEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/1 "Understanding Distributed Systems by Roberto Vitillo completed in 8 minutes on February 2025")
 
