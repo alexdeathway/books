@@ -23,8 +23,11 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-02-22T12:36:00.000Z"
+    "state": "completed",
+    "startedAt": "2025-02-22T12:36:00.000Z",
+    "completedAt": "2025-02-22T13:58:30.000Z",
+    "timeToComplete": 4950000,
+    "timeToCompleteFormatted": "1 hour"
   },
   {
     "title": "Understanding Distributed Systems",
