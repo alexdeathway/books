@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Database Internals",
+    "authors": [
+      "Alex Petrov"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2019-09-13",
+    "description": "When it comes to choosing, using, and maintaining a database, understanding its internals is essential. But with so many distributed databases and tools available today, it’s often difficult to understand what each one offers and how they differ. With this practical guide, Alex Petrov guides developers through the concepts behind modern database and storage engine internals. Throughout the book, you’ll explore relevant material gleaned from numerous books, papers, blog posts, and the source code of several open source databases. These resources are listed at the end of parts one and two. You’ll discover that the most significant distinctions among many modern databases reside in subsystems that determine how storage is organized and how data is distributed. This book examines: Storage engines: Explore storage classification and taxonomy, and dive into B-Tree-based and immutable Log Structured storage engines, with differences and use-cases for each Storage building blocks: Learn how database files are organized to build efficient storage, using auxiliary data structures such as Page Cache, Buffer Pool and Write-Ahead Log Distributed systems: Learn step-by-step how nodes and processes connect and build complex communication patterns Database clusters: Which consistency models are commonly used by modern databases and how distributed storage systems achieve consistency",
+    "image": "http://books.google.com/books/content?id=-F2vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 442,
+    "isbn10": "1492040304",
+    "isbn13": "9781492040309",
+    "googleBooks": {
+      "id": "-F2vDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=-F2vDwAAQBAJ&printsec=frontcover&dq=intitle:Database+Internals&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=-F2vDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=-F2vDwAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-02-22T12:36:00.000Z"
+  },
+  {
+    "title": "Understanding Distributed Systems",
+    "authors": [
+      "Roberto Vitillo"
+    ],
+    "publisher": "Roberto Vitillo",
+    "publishedDate": "2021",
+    "description": "Learning to build distributed systems is hard, especially if they are large scale. It's not that there is a lack of information out there. You can find academic papers, engineering blogs, and even books on the subject. The problem is that the available information is spread out all over the place, and if you were to put it on a spectrum from theory to practice, you would find a lot of material at the two ends, but not much in the middle. That is why I decided to write a book to teach the fundamentals of distributed systems so that you don’t have to spend countless hours scratching your head to understand how everything fits together. This is the guide I wished existed when I first started out, and it's based on my experience building large distributed systems that scale to millions of requests per second and billions of devices. If you develop the back-end of web or mobile applications (or would like to!), this book is for you. When building distributed systems, you need to be familiar with the network stack, data consistency models, scalability and reliability patterns, and much more. Although you can build applications without knowing any of that, you will end up spending hours debugging and re-designing their architecture, learning lessons that you could have acquired in a much faster and less painful way.",
+    "image": "http://books.google.com/books/content?id=mthMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 254,
+    "isbn10": "1838430202",
+    "isbn13": "9781838430207",
+    "googleBooks": {
+      "id": "mthMEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=mthMEAAAQBAJ&printsec=frontcover&dq=intitle:Understanding+Distributed+Systems&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=mthMEAAAQBAJ&dq=intitle:Understanding+Distributed+Systems&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Understanding_Distributed_Systems.html?hl=&id=mthMEAAAQBAJ"
+    },
+    "issueNumber": 1,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-02-22T12:08:46.000Z",
+    "completedAt": "2025-02-22T12:17:37.000Z",
+    "timeToComplete": 531000,
+    "timeToCompleteFormatted": "8 minutes"
+  }
+]
