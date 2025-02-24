@@ -1,6 +1,7 @@
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (6)
+### ⌛ Currently reading (7)
 
+[![Hands-On Python for DevOps](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DIif2EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/10 "Hands-On Python for DevOps by Ankur Roy")
 [![Clean Code](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhjEFCAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/9 "Clean Code by Robert C. Martin")
 [![The Clean Coder](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dik0qCTVzl44C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/8 "The Clean Coder by Robert C. Martin")
 [![Python for DevOps](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DgvrDDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/alexdeathway/books/issues/7 "Python for DevOps by Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu")
