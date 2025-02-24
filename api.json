@@ -1,5 +1,35 @@
 [
   {
+    "title": "Python for DevOps",
+    "authors": [
+      "Noah Gift",
+      "Kennedy Behrman",
+      "Alfredo Deza",
+      "Grig Gheorghiu"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2019-12-12",
+    "description": "Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today’s most useful DevOps tools, including Docker, Kubernetes, and Terraform. Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you’ll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to \"get stuff done\" in Python? This is your guide. Python foundations, including a brief introduction to the language How to automate text, write command-line tools, and automate the filesystem Linux utilities, package management, build systems, monitoring and instrumentation, and automated testing Cloud computing, infrastructure as code, Kubernetes, and serverless Machine learning operations and data engineering from a DevOps perspective Building, deploying, and operationalizing a machine learning project",
+    "image": "http://books.google.com/books/content?id=gvrDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 490,
+    "isbn10": "1492057649",
+    "isbn13": "9781492057642",
+    "googleBooks": {
+      "id": "gvrDDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=gvrDDwAAQBAJ&printsec=frontcover&dq=intitle:Python+for+DevOps:+Learn+Ruthlessly+Effective+Automation+by+Authors:+Kennedy+Behrman,+Grig+Gheorghiu,+Alfredo+Deza,+Noah+Gift&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=gvrDDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=gvrDDwAAQBAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-02-24T08:29:00.000Z"
+  },
+  {
     "title": "Hands-On Python for DevOps",
     "authors": [
       "Ankur Roy"
